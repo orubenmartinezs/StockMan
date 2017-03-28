@@ -1,0 +1,2 @@
+# StockMan
+Sistema de inventarios
